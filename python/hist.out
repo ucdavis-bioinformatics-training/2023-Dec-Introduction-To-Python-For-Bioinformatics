@@ -1,0 +1,1000 @@
+ 1049  killall /usr/lib/firefox/plugin-container
+ 1050  killall /usr/lib/firefox/firefox
+ 1051  top
+ 1052  killall firefox
+ 1053  killall /usr/lib/firefox/firefox
+ 1054  top
+ 1055  killall GeckoMain
+ 1056  s nelly furtado
+ 1057  s hall oates
+ 1058  s bali hai
+ 1059  s knuckles
+ 1060  s frankie
+ 1061  s adamski
+ 1062  s move your body
+ 1063  s black box
+ 1064  s sylvan
+ 1065  s veruca
+ 1066  s opiou
+ 1067  s opiu
+ 1068  s bassn
+ 1069  s feel nina
+ 1070  top
+ 1071  h|grep kill
+ 1072  top
+ 1073  killall firefox
+ 1074  killall /usr/lib/firefox/firefox
+ 1075  s distordean
+ 1076  s distord
+ 1077  killall /usr/lib/firefox/firefox
+ 1078  s madness ruelle
+ 1079  s madness
+ 1080  s let it bleed
+ 1081  s loyal ode
+ 1082  s no lie
+ 1083  s no lie sia
+ 1084  killall /usr/lib/firefox/firefox
+ 1085  sudo mount /dev/nvme0n1p1 /nvme0n1
+ 1086  lt /nvme0n1/home/joshi/Music/
+ 1087  sudo umount /nvme0n1 
+ 1088  s tove lo
+ 1089  ssh -K springfield.genomecenter.ucdavis.edu
+ 1090  kinit
+ 1091  ssh -K springfield.genomecenter.ucdavis.edu
+ 1092  kinit
+ 1093  ak
+ 1094  ssh -K springfield.genomecenter.ucdavis.edu
+ 1095  cd Downloads/
+ 1096  lt
+ 1097  mv sra_result.csv metadata.csv
+ 1098  ls /share/biocore/workshops/metagenomics_data
+ 1099  mv metadata.csv /share/biocore/workshops/metagenomics_data
+ 1100  lt
+ 1101  mv SraRunInfo.csv /share/biocore/workshops/metagenomics_data
+ 1102  cd dwhelper/
+ 1103  lt
+ 1104  ffmpeg -i Cassidy-s\ Brewery\ -\ Young\ Ned\ of\ the\ Hill\ -The\ Pogues\ cover-.mp4 Cassidy-s\ Brewery\ -\ Young\ Ned\ of\ the\ Hill\ -The\ Pogues\ cover-.mp3
+ 1105  ffmpeg -i Bruce\ Springsteen\ -\ Keep\ Your\ Eyes\ On\ The\ Prize\ -Hold\ On-.mp4 Bruce\ Springsteen\ -\ Keep\ Your\ Eyes\ On\ The\ Prize\ -Hold\ On-.mp3
+ 1106  cd
+ 1107  cd Music/
+ 1108  lt
+ 1109  aa
+ 1110  aa|sh
+ 1111  aa
+ 1112  aa|sh
+ 1113  lt
+ 1114  find AmazonMusicDownload/
+ 1115  find AmazonMusicDownload -type f
+ 1116  find AmazonMusicDownload -type f -exec mv "{}" . \;
+ 1117  lt
+ 1118  aa
+ 1119  aa|sh
+ 1120  aa
+ 1121  aa|sh
+ 1122  mv "01 - Dance in the Dark.mp3" "Au/Ra - Dance in the Dark.mp3"
+ 1123  mv "01 - Dance in the Dark.mp3" "AuRa - Dance in the Dark.mp3"
+ 1124  find AmazonMusicDownload/ -type f
+ 1125  s dixie
+ 1126  s dixie chicks
+ 1127  s the chicks
+ 1128  vi ../bin/s
+ 1129  s the chicks
+ 1130  s celine dion
+ 1131  lt
+ 1132  find AmazonMusicDownload/ -type f
+ 1133  find AmazonMusicDownload/ -type f -exec mv {} . \;
+ 1134  aa
+ 1135  aa|sh
+ 1136  cd dwhelper/
+ 1137  lt
+ 1138  ffmpeg -i LIGHT\ IN\ BABYLON\ -\ Hinech\ Yafa\ -\ Istanbul.mp4 LIGHT\ IN\ BABYLON\ -\ Hinech\ Yafa\ -\ Istanbul.mp3
+ 1139  lt
+ 1140  ffmpeg -i Solo\ Hang\ Drum\ in\ a\ Tunnel\ Daniel\ Waples\ -\ Hang\ in\ Balance\ London\ -\ England\ -HD-.mp4 Solo\ Hang\ Drum\ in\ a\ Tunnel\ Daniel\ Waples\ -\ Hang\ in\ Balance\ London\ -\ England\ -HD-.mp3
+ 1141  ffmpeg -i Avi\ Kaplan\ -\ House\ of\ the\ Rising\ Sun\ -Cover-\ -Live-\ -\ April\ 5-\ 2019.mp4 Avi\ Kaplan\ -\ House\ of\ the\ Rising\ Sun\ -Cover-\ -Live-\ -\ April\ 5-\ 2019.mp3
+ 1142  sf
+ 1143  kinit
+ 1144  sf
+ 1145  sudo umount /share/biocore
+ 1146  sf
+ 1147  cd Downloads/
+ 1148  lt
+ 1149  mv sequence.fasta human_rrna.fa
+ 1150  vi human_rrna.fa 
+ 1151  grep -v ^$ human_rrna.fa 
+ 1152  grep -v ^$ human_rrna.fa > tmp
+ 1153  lt
+ 1154  mv tmp human_rrna.fa 
+ 1155  mv human_rrna.fa /share/biocore/joshi/projects/tagseq_Nov_2021
+ 1156  kinit
+ 1157  s feelin good
+ 1158  s horns stay
+ 1159  s alice roots
+ 1160  s ove lo coming
+ 1161  s bryce horns
+ 1162  killall firefox
+ 1163  top
+ 1164  killall /usr/lib/firefox/firefox
+ 1165  top
+ 1166  cd misc
+ 1167  lt
+ 1168  l
+ 1169  ls
+ 1170  cd
+ 1171  cd Do
+ 1172  cd Downloads/
+ 1173  lt
+ 1174  sudo dpkg -i epson-inkjet-printer-201212w_1.0.0-1lsb3.2_i386.deb 
+ 1175  aptitude search lsb
+ 1176  sudo aptitude install lsb
+ 1177  sudo dpkg -i epson-inkjet-printer-201212w_1.0.0-1lsb3.2_i386.deb 
+ 1178  aptitude search lsb
+ 1179  lt
+ 1180  sudo dpkg -i epson-inkjet-printer-201212w_1.0.0-1lsb3.2_i386.deb 
+ 1181  lt
+ 1182  rm epson-inkjet-printer-201212w_1.0.0-1lsb3.2_i386.deb 
+ 1183  lt
+ 1184  rpm --help
+ 1185  lt
+ 1186  sudo rpm -i epson-inkjet-printer-201212w-1.0.0-1lsb3.2.x86_64.rpm 
+ 1187  alien --help
+ 1188  lt
+ 1189  alien -i epson-inkjet-printer-201212w-1.0.0-1lsb3.2.x86_64.rpm 
+ 1190  sudo alien -i epson-inkjet-printer-201212w-1.0.0-1lsb3.2.x86_64.rpm 
+ 1191  lt
+ 1192  lsb_release -a
+ 1193  aptitude search epson
+ 1194  killall firefox
+ 1195  top
+ 1196  killall /usr/lib/firefox/firefox
+ 1197  top
+ 1198  lt
+ 1199  s assia
+ 1200  top
+ 1201  s halestrom
+ 1202  s halestorm
+ 1203  s evane
+ 1204  snap install spotify
+ 1205  sudo snap install spotify
+ 1206  s band baa
+ 1207  h
+ 1208  killall /usr/lib/firefox/firefox
+ 1209  lt
+ 1210  cd digital_media_frame_touch/
+ 1211  lt
+ 1212  cd media/
+ 1213  lt
+ 1214  lt Misc
+ 1215  lt
+ 1216  cd ..
+ 1217  lt
+ 1218  cd fullsize/
+ 1219  lt
+ 1220  cd empics4/
+ 1221  ls
+ 1222  rm *.AAE
+ 1223  ls
+ 1224  ls *E*
+ 1225  rm *E*
+ 1226  s dorothy
+ 1227  s troyboi
+ 1228  s todrick
+ 1229  s k.flay
+ 1230  s sokko
+ 1231  cd digital_media_frame_touch/media/Misc
+ 1232  lt
+ 1233  ls | grep *499*
+ 1234  ls ../PNW\ road\ trip\ \(Oregon\ Coast\,\ Seattle\,\ San\ Juan\ Islands\,\ east\ Olympic\ peninsula\,\ Portland\)\ -\ July\ to\ August\ 2021/ | grep 4458
+ 1235  ls ../PNW\ road\ trip\ \(Oregon\ Coast\,\ Seattle\,\ San\ Juan\ Islands\,\ east\ Olympic\ peninsula\,\ Portland\)\ -\ July\ to\ August\ 2021/ | grep Resize
+ 1236  ls | grep *1422*
+ 1237  ssh -K springfield.genomecenter.ucdavis.edu
+ 1238  kinit
+ 1239  aptitude search pidgin
+ 1240  sudo aptitude install pidgin
+ 1241  cd Downloads/
+ 1242  lt
+ 1243  cd Downloads/
+ 1244  lt
+ 1245  mv Liu\ et\ al\ resistome.pdf /share/biocore/joshi/projects/Bovine_metagenomics_Oct_2021
+ 1246  sf
+ 1247  mv Liu\ et\ al\ resistome.pdf /share/biocore/joshi/projects/Bovine_metagenomics_Oct_2021
+ 1248  cd digital_media_frame_touch/
+ 1249  lt
+ 1250  pissh
+ 1251  ./pissh3
+ 1252  h|grep nmap
+ 1253  nmap -sn 192.168.1.0/24
+ 1254  aptitude search libxml
+ 1255  sudo aptitude install libxml2-dev
+ 1256  sudo aptitude install libcurl4-openssl-dev
+ 1257  sudo aptitude install libssl-dev
+ 1258  sudo aptitude install libfontconfig1-dev
+ 1259  cd digital_media_frame_touch/
+ 1260  ls media | grep json
+ 1261  cd digital_media_frame_touch/
+ 1262  vi tmp
+ 1263  cat tmp
+ 1264  vi tmp
+ 1265  cat tmp
+ 1266  cat tmp | awk '{print $8}'
+ 1267  cat tmp | awk '{print $9}'
+ 1268  cat tmp | awk '{print $9}' | while read x; do mv media/Misc/$x "media/Welding Projects/"; done
+ 1269  ls media/*/2021-12-15*
+ 1270  cd bin
+ 1271  lt
+ 1272  cd
+ 1273  cd digital_media_frame_touch/
+ 1274  lt
+ 1275  cd scripts/
+ 1276  lt
+ 1277  vi transform_media.pl 
+ 1278  vi add_timestamp.pl 
+ 1279  cat add_timestamp.pl 
+ 1280  perl -e 'use File::Basename;'
+ 1281  perl -e 'use File::Copy;'
+ 1282  perl -e 'use Tk;'
+ 1283  cp add_timestamp.pl ../try.pl
+ 1284  cd ..
+ 1285  vi try.pl 
+ 1286  ./try.pl fullsize/tmp
+ 1287  vi try.pl 
+ 1288  ./try.pl fullsize/tmp
+ 1289  lt scripts/
+ 1290  vi scripts/add_timestamp.pl 
+ 1291  cd
+ 1292  lt
+ 1293  cat tmp.out 
+ 1294  rm tmp.out 
+ 1295  cd digital_media_frame_touch/
+ 1296  lt
+ 1297  cd scripts/
+ 1298  lt
+ 1299  cat add_timestamp.pl 
+ 1300  cd ..
+ 1301  ~/digital_media_frame_touch/scripts/add_timestamp.pl /home/joshi/digital_media_frame_touch/fullsize/tmp/
+ 1302  lt ..
+ 1303  cd
+ 1304  lt
+ 1305  cd -
+ 1306  lt
+ 1307  vi scripts/add_timestamp.pl 
+ 1308  lt ..
+ 1309  vi scripts/add_timestamp.pl 
+ 1310  lt ..
+ 1311  vi scripts/add_timestamp.pl 
+ 1312  lt ..
+ 1313  rm ../tmp.out 
+ 1314  lt ..
+ 1315  vi scripts/add_timestamp.pl 
+ 1316  rm ../tmp.out 
+ 1317  lt ..
+ 1318  rm ../tmp.out 
+ 1319  lt
+ 1320  lt scripts/
+ 1321  cat scripts/add_timestamp.pl 
+ 1322  vi scripts/add_timestamp.pl 
+ 1323  lt ..
+ 1324  cat ../tmp.out 
+ 1325  rm ../tmp.out 
+ 1326  vi scripts/add_timestamp.pl 
+ 1327  vi scripts/reorder_by_time.pl 
+ 1328  vi scripts/add_timestamp.pl 
+ 1329  lt
+ 1330  lt fullsize/Apple\ Hill\ -\ November\ 2021/
+ 1331  ./print_lat_lon.pl fullsize/Apple\ Hill\ -\ November\ 2021/20211003_162414.resized.jpg
+ 1332  ls -l fullsize/Apple\ Hill\ -\ November\ 2021/
+ 1333  ./print_lat_lon.pl fullsize/Apple\ Hill\ -\ November\ 2021/20211003_162414.resized.jpg
+ 1334  ./print_lat_lon.pl fullsize/Apple\ Hill\ -\ November\ 2021/20211003_162442.resized.jpg
+ 1335  ./print_lat_lon.pl fullsize/Apple\ Hill\ -\ November\ 2021/20211003_162622.resized.jpg
+ 1336  ./print_lat_lon.pl fullsize/Apple\ Hill\ -\ November\ 2021/20211003_172310.resized.jpg
+ 1337  ./print_lat_lon.pl fullsize/Nik\'s\ Birthday\ weekend\ in\ the\ Napa\ Valley\ -\ November\ 2021/0001.20211111_185753.resized.jpg 
+ 1338  ./print_lat_lon.pl fullsize/Nik\'s\ Birthday\ weekend\ in\ the\ Napa\ Valley\ -\ November\ 2021/0070.20211113_143125.resized.jpg 
+ 1339  kinit
+ 1340  cd Music/
+ 1341  lt ../bin
+ 1342  aa
+ 1343  aa|sh
+ 1344  h|grep find
+ 1345  find AmazonMusicDownload -type f -exec mv "{}" . \;
+ 1346  aa
+ 1347  aa| sh
+ 1348  lt
+ 1349  vi ../bin/acp
+ 1350  chmod 755 ../bin/acp
+ 1351  lt
+ 1352  acp
+ 1353  lt
+ 1354  cd COPIED/
+ 1355  lt
+ 1356  rs
+ 1357  tag.pl -t vol144
+ 1358  lt
+ 1359  cd Music/COPIED/
+ 1360  lt
+ 1361  tag.pl -t vol144
+ 1362  lt tag.pl
+ 1363  chmod 755 tag.pl
+ 1364  rs
+ 1365  tag.pl -t vol144
+ 1366  rs
+ 1367  tag.pl vol144
+ 1368  lt
+ 1369  echo $PATH
+ 1370  vi make_music_list.pl 
+ 1371  chmod 755 make_music_list.pl 
+ 1372  make_music_list.pl > music_list.txt 
+ 1373  lt
+ 1374  less music_list.txt 
+ 1375  cd
+ 1376  cd Desktop/tom_xmas_2021/
+ 1377  aa
+ 1378  aa|sh
+ 1379  cd
+ 1380  cd misc
+ 1381  cat rsync_pcloud_music 
+ 1382  cd
+ 1383  cd Desktop/
+ 1384  rsync -avrt /home/joshi/Desktop/tom_xmas_2021 /home/joshi/pCloudDrive
+ 1385  cd misc
+ 1386  ls *.pl
+ 1387  cat rename.pl 
+ 1388  cat get_music_paths.pl 
+ 1389  lt
+ 1390  ls *.pl
+ 1391  cat aipd
+ 1392  cat aipd.pl 
+ 1393  lt
+ 1394  cd /media/joshi/E6C5-FA29/
+ 1395  lt
+ 1396  ls blues_fusion*/*
+ 1397  mv blues_fusion*/* .
+ 1398  aa
+ 1399  aa|sh
+ 1400  ls *.mp3
+ 1401  ls *.mp3 | head -255
+ 1402  ls *.mp3 | head -255 | while read x; do mv "$x" blues_fusion1; done
+ 1403  ls *.mp3 | head -255 | while read x; do mv "$x" blues_fusion2; done
+ 1404  ls *.mp3 | head -255 | while read x; do mv "$x" blues_fusion3; done
+ 1405  cd
+ 1406  s nutbush
+ 1407  killall firefox
+ 1408  top
+ 1409  killall /usr/lib/firefox/firefox
+ 1410  aptitude search facebook
+ 1411  cd Downloads/
+ 1412  wget https://downloadcontent.opensuse.org/repositories/home:/jgeboski/xUbuntu_17.10/amd64/purple-facebook_20180323~ef6ae47~9ff9acf9fa14~145_amd64.deb
+ 1413  s way you are
+ 1414  s timbland
+ 1415  s timbaland
+ 1416  s tove lo para
+ 1417  s tove lo
+ 1418  s tove lo equ
+ 1419  s lucii
+ 1420  s tove lo rom
+ 1421  s tove lo cy
+ 1422  s clozee
+ 1423  s maryam
+ 1424  find ../digital_media_frame_touch/media/ | grep -i maryam
+ 1425  lt
+ 1426  sudo crontab -e
+ 1427  lt
+ 1428  s naughty girl
+ 1429  s gal ban gayi
+ 1430  s sorry fab
+ 1431  s origo
+ 1432  s jonas 
+ 1433  s sir andre
+ 1434  s marian lips
+ 1435  s imagine drag
+ 1436  s mindch
+ 1437  s shapesh
+ 1438  s trampoline
+ 1439  s anitta
+ 1440  s read my lips
+ 1441  s radioactive
+ 1442  s todrick
+ 1443  s james blake
+ 1444  h|grep kill
+ 1445  killall /usr/lib/firefox/firefox
+ 1446  top
+ 1447  killall /usr/lib/firefox/firefox
+ 1448  killall firefox
+ 1449  top
+ 1450  kill -9 28238
+ 1451  top
+ 1452  kill -9 28137
+ 1453  top
+ 1454  lt
+ 1455  cd misc
+ 1456  cat rsync_pcloud_music 
+ 1457  rsync_pcloud_music
+ 1458  cd digital_media_frame_touch/fullsize/
+ 1459  lt
+ 1460  unzip 2021-09-09-rogue-leavin.zip 
+ 1461  cd ..
+ 1462  cd media/Misc
+ 1463  ls | grep 20254
+ 1464  cd
+ 1465  cd Pictures/Front\ yard\ agave\ blooming\ -\ May\ 2021/
+ 1466  lt
+ 1467  ffmpeg -r 10 -pattern_type glob -i * -s 1920x1440 -vcodec libx264 output.mp4
+ 1468  lt
+ 1469  ffmpeg -r 10 -pattern_type glob -i 0* -s 1920x1440 -vcodec libx264 output.mp4
+ 1470  ffmpeg -r 10 -i 0* -s 1920x1440 -vcodec libx264 output.mp4
+ 1471  ffmpeg -r 10 -pattern_type glob -i '0*' -s 1920x1440 -vcodec libx264 output.mp4
+ 1472  ffmpeg -framerate 60 -pattern_type glob -i '*' -c:v libx264 -r 30 -pix_fmt yuv420p out-60fps.mp4
+ 1473  ffmpeg -framerate 60 -pattern_type glob -i '0*' -c:v libx264 -r 30 -pix_fmt yuv420p out-60fps.mp4
+ 1474  ffmpeg -framerate 60 -pattern_type glob -i 0* -c:v libx264 -r 30 -pix_fmt yuv420p out-60fps.mp4
+ 1475  ffmpeg -framerate 60 -pattern_type glob -i '0*' -c:v libx264 -r 30 -pix_fmt yuv420p out-60fps.mp4
+ 1476  ls 0*
+ 1477  ffmpeg -r 10 -pattern_type glob -i '0*' -s 1920x1440 -vcodec libx264 output.mp4
+ 1478  ffmpeg --version
+ 1479  ffmpeg -version
+ 1480  ffmpeg --help
+ 1481  ffmpeg -h full
+ 1482  ffmpeg -h full | grep pattern
+ 1483  ffmpeg -h full | less
+ 1484  ffmpeg -h long | less
+ 1485  ffmpeg -r 10 -pattern_type glob -i '0*' -s 1920x1440 -vcodec libx264 output.mp4
+ 1486  ffmpeg -r 10 -pattern_type glob -i "0*" -s 1920x1440 -vcodec libx264 output.mp4
+ 1487  ffmpeg -r 10 -pattern_type glob -i 0* -s 1920x1440 -vcodec libx264 output.mp4
+ 1488  ffmpeg -r 10 -pattern_type glob -i "0*" -s 1920x1440 -vcodec libx264 output.mp4
+ 1489  ffmpeg -framerate 5 -pattern_type glob -i 'IMG*.jpg' -vf "scale=-2:1080,format=yuv420p" -movflags +faststart output.mp4
+ 1490  ffmpeg -framerate 5 -pattern_type glob -i '*.jpg' -vf "scale=-2:1080,format=yuv420p" -movflags +faststart output.mp4
+ 1491  lt
+ 1492  rm output.mp4 
+ 1493  ffmpeg -r 10 -pattern_type glob -i '*.jpg' -s 1920x1440 -vcodec libx264 output.mp4
+ 1494  lt
+ 1495  rm output.mp4 
+ 1496  lt
+ 1497  ls *.JPG
+ 1498  ls *.JPG | while read x; do mv $x ${x%.JPG}.jpg; done
+ 1499  ls
+ 1500  ffmpeg -r 10 -pattern_type glob -i '*.jpg' -s 1920x1440 -vcodec libx264 output.mp4
+ 1501  cd
+ 1502  cd digital_media_frame_touch/Front\ yard\ agave\ blooming\ -\ May\ 2021/
+ 1503  ffmpeg -r 10 -pattern_type glob -i '*.jpg' -s 1920x1440 -vcodec libx264 output.mp4
+ 1504  ffmpeg -r 1 -pattern_type glob -i '*.jpg' -s 1920x1440 -vcodec libx264 output.mp4
+ 1505  ffmpeg -r 1 -pattern_type glob -i '*.jpg' -s 810x1080 -vcodec libx264 output.mp4
+ 1506  rm output.mp4 
+ 1507  ffmpeg -r 1 -pattern_type glob -i '*.jpg' -s 810x1080 -vcodec libx264 output.mp4
+ 1508  touch *
+ 1509  ls
+ 1510  lt
+ 1511  touch -m *
+ 1512  ls ~/.cache/thumbnails/
+ 1513  ls ~/.cache/thumbnails/large/
+ 1514  ls ~/.cache/thumbnails/normal/
+ 1515  rm ~/.cache/thumbnails/large/*
+ 1516  lt
+ 1517  touch -m *
+ 1518  cd ../agave/
+ 1519  lt
+ 1520  ls
+ 1521  ffmpeg -r 1 -pattern_type glob -i '*.jpg' -s 810x1080 -vcodec libx264 output.mp4
+ 1522  ffmpeg -r 2 -pattern_type glob -i '*.jpg' -s 810x1080 -vcodec libx264 output.mp4
+ 1523  cd ../fullsize/
+ 1524  cp -r tmp ../tmp2
+ 1525  cd ..
+ 1526  cp -r tmp2 fullsize/tmp
+ 1527  lt ..
+ 1528  cat ../tmp.out 
+ 1529  cp -r tmp2 fullsize/tmp
+ 1530  rm -r tmp2
+ 1531  lt
+ 1532  rm try.pl 
+ 1533  lt
+ 1534  cd agave/
+ 1535  h
+ 1536  ffmpeg -r 2 -pattern_type glob -i '*.jpg' -s 810x1080 -vcodec libx264 output.mp4
+ 1537  cd ../fullsize/tmp2
+ 1538  lt
+ 1539  cat extra_text.txt 
+ 1540  lt
+ 1541  cat extra_text.txt >> ../../media/Misc/extra_text.txt 
+ 1542  rm extra_text.txt 
+ 1543  mv -i * ../../media/Misc/
+ 1544  lt
+ 1545  cd ..
+ 1546  cd tmp
+ 1547  lt
+ 1548  cat extra_text.txt >> ../../media/Misc/extra_text.txt 
+ 1549  rm extra_text.txt 
+ 1550  lt
+ 1551  mv -i * ../../media/Misc/
+ 1552  lt
+ 1553  cd ..
+ 1554  rmdir tmp
+ 1555  cd ..
+ 1556  lt
+ 1557  lt scripts/
+ 1558  lt
+ 1559  cd media/Misc
+ 1560  lt
+ 1561  eog 2021-12-15_20210905_190554.resized.jpg
+ 1562  eog 2021-12-15_20210905_191827.resized.jpg
+ 1563  eog 2021-12-15_20210905_191624.resized.jpg
+ 1564  eog 2021-12-15_20210905_191440.resized.jpg
+ 1565  eog 2021-12-15_20210902_202602.resized.jpg
+ 1566  eog 2021-12-15_20211206_163430.resized.jpg
+ 1567  eog 2021-12-15_20210901_183622.resized.jpg
+ 1568  eog 2021-12-15_20211206_163430.resized.jpg
+ 1569  lt
+ 1570  lt ../Welding\ Projects/
+ 1571  lt
+ 1572  less extra_text.txt 
+ 1573  vi ../Welding\ Projects/extra_text.txt 
+ 1574  vi extra_text.txt 
+ 1575  cd ..
+ 1576  lt
+ 1577  cd ..
+ 1578  lt
+ 1579  rm tmp
+ 1580  lt
+ 1581  ./make_tracks_json_nik_pi3.pl media/np_pi3.json media/*/2021-12-15_20210905_190554.resized.jpg
+ 1582  2021-12-15_20211011_221301.resized.jpg
+ 1583  plant stand for Barbera, Oct. 2021
+ 1584  2021-12-15_20211013_184829.resized.jpg
+ 1585  installed new plant stand for Barbera, Oct. 2021
+ 1586  2021-12-15_20211028_210735.resized.jpg
+ 1587  frog in flower catching bug, Oct. 2021
+ 1588  2021-12-15_20211028_210822.resized.jpg
+ 1589  frogs, Oct. 2021
+ 1590  2021-12-15_20211114_164201.resized.jpg
+ 1591  flower sculpture commission, Nov. 2021
+ 1592  2021-12-15_20211116_191828.resized.jpg
+ 1593  side table using wood from Avi, Nov. 2021
+ 1594  2021-12-15_20211122_223512.resized.jpg
+ 1595  clock, Nov. 2021
+ 1596  2021-12-15_20211128_002948.resized.jpg
+ 1597  table using wood from Avi, Nov. 2021
+ 1598  2021-12-15_20211128_003014.resized.jpg
+ 1599  table using wood from Avi, Nov. 2021
+ 1600  2021-12-15_20211201_195307.resized.jpg
+ 1601  table using wood from Avi, Nov. 2021
+ 1602  2021-12-15_20211201_195332.resized.jpg
+ 1603  table using wood from Avi, Nov. 2021
+ 1604  2021-12-15_20211202_152718.resized.jpg
+ 1605  table using wood from Avi, Nov. 2021
+ 1606  2021-12-15_20211206_163407.resized.jpg
+ 1607  mask, Dec. 2021
+ 1608  2021-12-15_20211206_163430.resized.jpg
+ 1609  owl, Dec. 2021
+ 1610  ./make_tracks_json_nik_pi3.pl media/np_pi3.json media/*/2021-12-15*
+ 1611  lt
+ 1612  h
+ 1613  cd agave/
+ 1614  ffmpeg -r 3 -pattern_type glob -i '*.jpg' -s 810x1080 -vcodec libx264 output2.mp4
+ 1615  cd ..
+ 1616  lt
+ 1617  rmdir fullsize/
+ 1618  lt
+ 1619  vi ~/.bashrc 
+ 1620  source ~/.bashrc 
+ 1621  lt
+ 1622  make_tracks_json_nik_pi3.pl media/np_pi3.json media/Alameda\ Antiques\ Fair\ -\ November\ 2021/ media/Apple\ Hill\ -\ November\ 2021/ media/Arboretum\ during\ mega\ rain\ storm\ -\ November\ 2021/ media/Death\ Cab\ For\ Cutie\ in\ Napa\ -\ November\ 2021/ media/DMNC\ Winter\ Bazaar\ -\ December\ 2021/ media/Nocturne\ X\ in\ SF\ -\ November\ 2021/ media/Visiting\ Locke\ in\ the\ Delta\ -\ November\ 2021/ media/Nik\'s\ Birthday\ weekend\ in\ the\ Napa\ Valley\ -\ November\ 2021/ media/Front\ yard\ agave\ blooming\ -\ April\ to\ October\ 2021/
+ 1623  make_tracks_json_nik_pi3.pl media/np_pi3.json media/Arboretum\ during\ mega\ rain\ storm\ -\ November\ 2021/ media/DMNC\ Winter\ Bazaar\ -\ December\ 2021/ media/Nik\'s\ Birthday\ weekend\ in\ the\ Napa\ Valley\ -\ November\ 2021/ media/Front\ yard\ agave\ blooming\ -\ April\ to\ October\ 2021/
+ 1624  make_tracks_json_nik_pi3.pl media/np_pi3.json media/Arboretum\ during\ mega\ rain\ storm\ -\ November\ 2021/ media/Front\ yard\ agave\ blooming\ -\ April\ to\ October\ 2021/timelapse*
+ 1625  lt
+ 1626  lt media
+ 1627  lt
+ 1628  mv Front\ yard\ agave\ blooming\ -\ April\ to\ December\ 2021/ Front\ yard\ agave\ blooming\ -\ April\ to\ October\ 2021/
+ 1629  lt
+ 1630  cat pissh
+ 1631  cat rsync_command
+ 1632  ls /media/joshi/Seagate\ Expansion\ Drive/media/
+ 1633  lt
+ 1634  rsync_command
+ 1635  cd
+ 1636  cd misc
+ 1637  lt
+ 1638  cat rsync_pcloud_pics 
+ 1639  rsync_pcloud_pics 
+ 1640  cat rsync_pcloud_pics 
+ 1641  vi rsync_pcloud_pics 
+ 1642  rsync_pcloud_pics 
+ 1643  ssh -K springfield.genomecenter.ucdavis.edu
+ 1644  kinit
+ 1645  cd digital_media_frame_touch/
+ 1646  cd media/
+ 1647  lt
+ 1648  ls
+ 1649  ls | grep -i kinetic
+ 1650  cd tmp2
+ 1651  lt
+ 1652  cat extra_text.txt 
+ 1653  cd ..
+ 1654  ls | grep -i mural
+ 1655  cd tmp2
+ 1656  lt
+ 1657  cat extra_text.txt >> ../PNW\ road\ trip\ \(Oregon\ Coast\,\ Seattle\,\ San\ Juan\ Islands\,\ east\ Olympic\ peninsula\,\ Portland\)\ -\ July\ to\ August\ 2021/extra_text.txt 
+ 1658  lt
+ 1659  rm extra_text.txt 
+ 1660  lt
+ 1661  mv * ../PNW\ road\ trip\ \(Oregon\ Coast\,\ Seattle\,\ San\ Juan\ Islands\,\ east\ Olympic\ peninsula\,\ Portland\)\ -\ July\ to\ August\ 2021/
+ 1662  lt
+ 1663  ls .. | grep -i mark
+ 1664  lt
+ 1665  cat extra_text.txt >> ../Mark\ Rivera\ memorial\ -\ June\ 2021/extra_text.txt 
+ 1666  rm extra_text.txt 
+ 1667  lt
+ 1668  mv 2022-1-3_mark_memorial.resized.jpg  ../Mark\ Rivera\ memorial\ -\ June\ 2021/
+ 1669  lt
+ 1670  cat extra_text.txt >> ../Arcata\ \&\ Kinetic\ Sculpture\ Grand\ Championship\ -\ May\ 2010/extra_text.txt 
+ 1671  rm extra_text.txt 
+ 1672  lt
+ 1673  mv * ../Arcata\ \&\ Kinetic\ Sculpture\ Grand\ Championship\ -\ May\ 2010/
+ 1674  lt
+ 1675  ls
+ 1676  lt
+ 1677  cat extra_text.txt ../Garage\ Mural\ process\ -\ August\ 2012/extra_text.txt 
+ 1678  cat extra_text.txt >> ../Garage\ Mural\ process\ -\ August\ 2012/extra_text.txt 
+ 1679  lt
+ 1680  rm extra_text.txt 
+ 1681  lt
+ 1682  mv * ../Garage\ Mural\ process\ -\ August\ 2012/
+ 1683  ls
+ 1684  lt
+ 1685  cat extra_text.txt >> ../Mark\ Rivera\ memorial\ -\ June\ 2021/extra_text.txt 
+ 1686  rm extra_text.txt 
+ 1687  mv 2022-1-3_nikscan_1-1-2022_096.resized.jpg ../Mark\ Rivera\ memorial\ -\ June\ 2021/
+ 1688  lt
+ 1689  cat extra_text.txt >> ../Autumn\ Lights\ Festival\ in\ Oakland\ -\ October\ 2019/extra_text.txt 
+ 1690  rm extra_text.txt 
+ 1691  lt
+ 1692  mv 2022-1-3_nikscan_1-1-2022_108.resized.jpg ../Autumn\ Lights\ Festival\ in\ Oakland\ -\ October\ 2019/
+ 1693  lt
+ 1694  cd ..
+ 1695  rmdir tmp2
+ 1696  cd tmp
+ 1697  lt
+ 1698  cat extra_text.txt >> ../Misc/extra_text.txt 
+ 1699  lt
+ 1700  rm extra_text.txt 
+ 1701  lt
+ 1702  mv * ../Misc/
+ 1703  cd ..
+ 1704  rmdir tmp
+ 1705  lt
+ 1706  lt Misc
+ 1707  cd..
+ 1708  ls media/*/2022-1-3_*
+ 1709  cat media/np_pi3.json 
+ 1710  ls media/*/2022-1-3_*
+ 1711  make_tracks_json_nik_pi3.pl media/np_pi3.json media/*/2022-1-3_*
+ 1712  make_tracks_json_nik_pi3.pl media/np_pi3.json media/Arcata\ \&\ Kinetic\ Sculpture\ Grand\ Championship\ -\ May\ 2010/2022-1-3_*
+ 1713  make_tracks_json_nik_pi3.pl media/np_pi3.json media/Misc/2022-1-3_thankful3.resized.jpg
+ 1714  make_tracks_json_nik_pi3.pl media/np_pi3.json media/Garage\ Mural\ process\ -\ August\ 2012/2022-1-3_*
+ 1715  lt
+ 1716  cat README 
+ 1717  grep location media/np_pi3.json | grep -v track-text | perl -ne '($dir)=$_=~/media\/(.+?)\//; $cnt{$dir}++; $total++; }{ foreach $dir (sort {$cnt{$a} <=> $cnt{$b}} keys %cnt) {$perc = sprintf("%.2f", ($cnt{$dir} / $total * 100)); print "$dir\t$perc%\n";}' > perc.out 
+ 1718  lt
+ 1719  cat perc.out 
+ 1720  lt
+ 1721  cat rsync_command2 
+ 1722  pissh3
+ 1723  cat pissh3
+ 1724  vi rsync_command2 
+ 1725  cat rsync_command
+ 1726  vi rsync_command2 
+ 1727  cat rsync_command
+ 1728  cat rsync_command2 
+ 1729  rsync_command2
+ 1730  pissh3
+ 1731  cd
+ 1732  cd misc
+ 1733  lt
+ 1734  cat rsync_pcloud_pics 
+ 1735  rsync_pcloud_pics 
+ 1736  lt
+ 1737  cd ..
+ 1738  lt
+ 1739  /usr/bin/python3 Untitled-1
+ 1740  /usr/bin/python3 /home/joshi/Documents/test.py
+ 1741  ls
+ 1742  pwd
+ 1743  ssh -K springfield.genomecenter.ucdavis.edu
+ 1744  aptitude search jupyter
+ 1745  aptitude search vscode
+ 1746  cd Downloads/
+ 1747  lt
+ 1748  sudo dpkg -i code_1.63.2-1639562499_amd64.deb 
+ 1749  aptitude search jupyter
+ 1750  sudo aptitude install jupyter
+ 1751  jupyter
+ 1752  jupyter-notebook
+ 1753  lt
+ 1754  which python
+ 1755  python --version
+ 1756  python3 --version
+ 1757  cd
+ 1758  cd work
+ 1759  lt
+ 1760  cd Desktop/work/
+ 1761  lt
+ 1762  cd workshops/
+ 1763  lt
+ 1764  git clone https://github.com/ucdavis-bioinformatics-training/2022-Feb-Introduction-To-Python-For-Bioinformatics.git
+ 1765  cd 2022-Feb-Introduction-To-Python-For-Bioinformatics/
+ 1766  lt
+ 1767  git status
+ 1768  gitr
+ 1769  git commit -am 'update readme'
+ 1770  git push
+ 1771  git add base/install.md 
+ 1772  git status
+ 1773  git commit -am 'adding install instructions'
+ 1774  git push
+ 1775  aptitude search python3
+ 1776  apt help
+ 1777  lt ~/Downloads/
+ 1778  lt
+ 1779  git status
+ 1780  git commit -am 'adding install instructions'
+ 1781  git push
+ 1782  sf
+ 1783  kinit
+ 1784  s
+ 1785  sf
+ 1786  sudo umount /share/biocore
+ 1787  sf
+ 1788  cp /share/biocore/joshi/sandbox/export2graphlan.py ~/Desktop/work/
+ 1789  cd Desktop/work/
+ 1790  lt
+ 1791  cd workshops/
+ 1792  lt
+ 1793  cd r_materials_october_2021-main/
+ 1794  lt
+ 1795  cd intro_R_files/
+ 1796  lt
+ 1797  cd ..
+ 1798  lt
+ 1799  less intro_R.Rmd 
+ 1800  /usr/bin/python3 /home/joshi/Documents/test.py
+ 1801  s inna
+ 1802  s inna marian
+ 1803  s diggy
+ 1804  s get enough
+ 1805  ping www.amazon.com
+ 1806  ping www.youtube.com
+ 1807  s hailee
+ 1808  s cutting crew
+ 1809  s locked
+ 1810  s rihanna
+ 1811  s rihanna shut
+ 1812  s candy shop
+ 1813  s 50 cen
+ 1814  s lady gaga
+ 1815  s marina teen
+ 1816  s marina diam
+ 1817  s caribou
+ 1818  s jacob
+ 1819  s jacob banks
+ 1820  s eternal
+ 1821  s the bangles
+ 1822  s laura bran
+ 1823  s trumpets
+ 1824  s raury
+ 1825  s nickodemus
+ 1826  lt
+ 1827  cd digital_media_frame_touch/media/
+ 1828  ls | grep -i chicago
+ 1829  s bangles
+ 1830  s outkast
+ 1831  s sean paul
+ 1832  killall firefox
+ 1833  top
+ 1834  killall /usr/lib/firefox/firefox
+ 1835  s suzi
+ 1836  s black crow
+ 1837  s spoon
+ 1838  s banks
+ 1839  s alessia
+ 1840  s vance joy
+ 1841  s grand master
+ 1842  s fant neg
+ 1843  s aly aj
+ 1844  s kiniy
+ 1845  s kinky
+ 1846  s tessa
+ 1847  s dorothy
+ 1848  s kygo
+ 1849  s higher love
+ 1850  s pink
+ 1851  s "pink - "
+ 1852  s aly aj
+ 1853  top
+ 1854  killall /usr/lib/firefox/firefox
+ 1855  ping www.amazon.com
+ 1856  ping www.google.com
+ 1857  killall /usr/lib/firefox/firefox
+ 1858  top
+ 1859  kinit
+ 1860  cd Downloads/
+ 1861  lt
+ 1862  sf
+ 1863  kinit
+ 1864  sf
+ 1865  sudo umount /share/biocore 
+ 1866  sf
+ 1867  lt
+ 1868  mv taxator-tk_1.3.3e-64bit.tar.bz2 /share/biocore/joshi/projects/Bovine_metagenomics_Oct_2021
+ 1869  kinit
+ 1870  lt
+ 1871  cd Downloads/
+ 1872  lt
+ 1873  sf
+ 1874  mv tax_report.txt /share/biocore/joshi/projects/Bovine_metagenomics_Oct_2021
+ 1875  cd Desktop/work/
+ 1876  lt
+ 1877  wget https://github.com/samtools/samtools/releases/download/1.14/samtools-1.14.tar.bz2
+ 1878  tar xvjf samtools-1.14.tar.bz2 
+ 1879  cd samtools-1.14/
+ 1880  lt
+ 1881  cat README 
+ 1882  cd ..
+ 1883  git clone https://github.com/DerrickWood/kraken2.git
+ 1884  cd kraken2
+ 1885  lt
+ 1886  cat install_kraken2.sh 
+ 1887  lt
+ 1888  mkdir build
+ 1889  cd build
+ 1890  lt
+ 1891  mkdir ../../kraken2_install
+ 1892  lt
+ 1893  cmake -DCMAKE_INSTALL_PREFIX=/home/joshi/Desktop/work/kraken2_install ..
+ 1894  sudo apt  install cmake
+ 1895  cmake -DCMAKE_INSTALL_PREFIX=/home/joshi/Desktop/work/kraken2_install ..
+ 1896  make
+ 1897  make install
+ 1898  lt
+ 1899  cd ..
+ 1900  lt
+ 1901  cd 
+ 1902  cd -
+ 1903  cd work
+ 1904  cd ..
+ 1905  cd kraken2_install/
+ 1906  lt
+ 1907  cd .
+ 1908  cd ..
+ 1909  lt
+ 1910  cd kraken2
+ 1911  lt
+ 1912  cd build
+ 1913  lt
+ 1914  cd ../..
+ 1915  git clone https://github.com/biocore/sortmerna.git
+ 1916  cd sortmerna/
+ 1917  lt
+ 1918  mkdir build
+ 1919  cd build
+ 1920  mkdir ../../sortmerna_install
+ 1921  cmake -DCMAKE_INSTALL_PREFIX=/home/joshi/Desktop/work/sortmerna_install ..
+ 1922  cd ../..
+ 1923  lt
+ 1924  cd workshops/
+ 1925  lt
+ 1926  cd 2022-Jan-Introduction-to-the-Command-Line-for-Bioinformatics/
+ 1927  lt
+ 1928  cd bli
+ 1929  cd cli
+ 1930  lt
+ 1931  h
+ 1932  git commit -am 'adding docs'
+ 1933  git push
+ 1934  git pull
+ 1935  lt
+ 1936  git pull
+ 1937  lt
+ 1938  cat DMR.GBM2.vs.NB1.bed | awk '{print $0}'
+ 1939  cat DMR.GBM2.vs.NB1.bed | awk '{$2=$2+1; print $0}'
+ 1940  cat DMR.GBM2.vs.NB1.bed | awk '{print $0}'
+ 1941  cat DMR.GBM2.vs.NB1.bed | awk '{$2=$2+1; print $0}'
+ 1942  cat DMR.GBM2.vs.NB1.bed | awk '{$2=$2+1; $1=$1+"hello"; print $0}'
+ 1943  cat DMR.GBM2.vs.NB1.bed | awk '{$2=$2+1; $1=$1."hello"; print $0}'
+ 1944  cat DMR.GBM2.vs.NB1.bed | awk 'BEGIN{$cnt=0;} {$2=$2+1; $1=$1."hello"; print $0}'
+ 1945  cat DMR.GBM2.vs.NB1.bed | awk 'BEGIN{$cnt=0;} {$2=$2+1; $1=$1."$cnt"; print $0}'
+ 1946  cat DMR.GBM2.vs.NB1.bed | awk 'BEGIN{cnt=0;} {$2=$2+1; $1=$1."$cnt"; print $0}'
+ 1947  cat DMR.GBM2.vs.NB1.bed | awk 'BEGIN{cnt=0;} {$2=$2+1; $1=$1."cnt"; print $0}'
+ 1948  cat DMR.GBM2.vs.NB1.bed | awk 'BEGIN{cnt=0;} {$2=$2+1; $1=$1.cnt; print $0}'
+ 1949  cat DMR.GBM2.vs.NB1.bed | awk 'BEGIN{cnt=0;} {$2=$2+1; $1=$1.cnt; cnt=cnt+1; print $0}'
+ 1950  cat DMR.GBM2.vs.NB1.bed | awk 'BEGIN{cnt=0;} {$2=$2+1; $1=$1."_".cnt; cnt=cnt+1; print $0}'
+ 1951  cat DMR.GBM2.vs.NB1.bed | awk 'BEGIN{cnt=0;} {$2=$2+1; $1=$1.cnt; cnt=cnt+1; print $0}'
+ 1952  cat DMR.GBM2.vs.NB1.bed | awk 'BEGIN{cnt=0;} {$2=$2+1; $1=$1cnt; cnt=cnt+1; print $0}'
+ 1953  cat DMR.GBM2.vs.NB1.bed | awk 'BEGIN{cnt=0;} {$2=$2+1; $1=$1_cnt; cnt=cnt+1; print $0}'
+ 1954  cat DMR.GBM2.vs.NB1.bed | awk 'BEGIN{cnt=0;} {$2=$2+1; $1=${1}_cnt; cnt=cnt+1; print $0}'
+ 1955  cat DMR.GBM2.vs.NB1.bed | awk 'BEGIN{cnt=0;} {$2=$2+1; $1=$1._cnt; cnt=cnt+1; print $0}'
+ 1956  cat DMR.GBM2.vs.NB1.bed | awk 'BEGIN{cnt=0;} {$2=$2+1; $1=$1._.cnt; cnt=cnt+1; print $0}'
+ 1957  cat DMR.GBM2.vs.NB1.bed | awk 'BEGIN{cnt=0;} {$2=$2+1; $1=$1.cnt; cnt=cnt+1; print $0}'
+ 1958  cat DMR.GBM2.vs.NB1.bed | awk 'BEGIN{cnt=0;} {$2=$2+1; $1=$1 _ cnt; cnt=cnt+1; print $0}'
+ 1959  cat DMR.GBM2.vs.NB1.bed | awk 'BEGIN{cnt=0;} {$2=$2+1; $1=$1 "_" cnt; cnt=cnt+1; print $0}'
+ 1960  lt
+ 1961  git status
+ 1962  git commit -am 'adding docs'
+ 1963  git push
+ 1964  git commit -am 'adding docs'
+ 1965  git push
+ 1966  git commit -am 'adding docs'
+ 1967  git push
+ 1968  top
+ 1969  ping www.youtube.com
+ 1970  s lillian
+ 1971  s frances
+ 1972  killall firefox
+ 1973  top
+ 1974  killall /usr/lib/firefox/firefox
+ 1975  top
+ 1976  killall /usr/lib/firefox/firefox
+ 1977  sudo apt update
+ 1978  sudo apt upgrade
+ 1979  sudo apt update
+ 1980  killall /usr/lib/firefox/firefox
+ 1981  kinit
+ 1982  sf
+ 1983  lt
+ 1984  aptitude search boost
+ 1985  cd Desktop/work/
+ 1986  wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
+ 1987  lt
+ 1988  less Miniconda3-latest-Linux-x86_64.sh 
+ 1989  rm Miniconda3-latest-Linux-x86_64.sh 
+ 1990  less Miniconda3-latest-Linux-x86_64.sh 
+ 1991  wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
+ 1992  lt
+ 1993  rm Miniconda3-latest-Linux-x86_64.sh 
+ 1994  cd workshops/
+ 1995  lt
+ 1996  cd 2022-Jan-Introduction-to-the-Command-Line-for-Bioinformatics/
+ 1997  lt
+ 1998  git status
+ 1999  git commit -am 'adding software install'
+ 2000  git push
+ 2001  cd Desktop/work/workshops/
+ 2002  lt
+ 2003  cd cd 2022-Feb-Introduction-To-Python-For-Bioinformatics/
+ 2004  cd 2022-Feb-Introduction-To-Python-For-Bioinformatics/
+ 2005  git pull
+ 2006  lt
+ 2007  cd python/
+ 2008  lt
+ 2009  git add DMR.GBM2.vs.NB1.bed 
+ 2010  less DMR.GBM2.vs.NB1.bed 
+ 2011  git mv DMR.GBM2.vs.NB1.bed DMR.GBM2.vs.NB1.tsv
+ 2012  git status
+ 2013  git commit -am 'adding more docs'
+ 2014  git push
+ 2015  git commit -am 'adding more docs'
+ 2016  git push
+ 2017  touch python4.md
+ 2018  git add python4.md 
+ 2019  python3
+ 2020  git commit -am 'adding more docs'
+ 2021  git push
+ 2022  git commit -am 'adding more docs'
+ 2023  git push
+ 2024  git commit -am 'adding more docs'
+ 2025  git push
+ 2026  git commit -am 'adding more docs'
+ 2027  git push
+ 2028  lt
+ 2029  git add scripts
+ 2030  git status
+ 2031  git commit -am 'adding more docs'
+ 2032  git push
+ 2033  lt
+ 2034  cd ..
+ 2035  lt
+ 2036  cd python/
+ 2037  lt
+ 2038  cp /share/biocore/joshi/sandbox/test.fa seq.fa
+ 2039  lt
+ 2040  less seq.fa 
+ 2041  vi seq.fa 
+ 2042  perl -e 'print rand(4)."\n";'
+ 2043  perl -e 'print int(rand(4))."\n";'
+ 2044  perl -e '$nucl{1}="A"; $nucl{2}="C"; $nucl{3}="G"; $nucl{4}="T"; for ($i=1; $i<=30; $i++) {print ">seq$i\n"; $nl = int(rand(10))+3; for ($j=1; $j<=$nl; $j++) {$nv = int(rand(4))+1; print $nucl{$nv};} print "\n";}'
+ 2045  perl -e '$nucl{1}="A"; $nucl{2}="C"; $nucl{3}="G"; $nucl{4}="T"; for ($i=1; $i<=30; $i++) {print ">seq$i\n"; $nl = int(rand(10))+3; for ($j=1; $j<=$nl; $j++) {for ($k=1; $k<=60; $k++) {$nv = int(rand(4))+1; print $nucl{$nv};}} print "\n";}'
+ 2046  perl -e '$nucl{1}="A"; $nucl{2}="C"; $nucl{3}="G"; $nucl{4}="T"; for ($i=1; $i<=30; $i++) {print ">seq$i\n"; $nl = int(rand(10))+3; for ($j=1; $j<=$nl; $j++) {for ($k=1; $k<=60; $k++) {$nv = int(rand(4))+1; print $nucl{$nv};}print "\n";}}'
+ 2047  perl -e '$nucl{1}="A"; $nucl{2}="C"; $nucl{3}="G"; $nucl{4}="T"; for ($i=1; $i<=30; $i++) {print ">seq$i\n"; $nl = int(rand(10))+3; for ($j=1; $j<=$nl; $j++) {for ($k=1; $k<=60; $k++) {$nv = int(rand(4))+1; print $nucl{$nv};}print "\n";}}' > seq.fa 
+ 2048  h>hist.out

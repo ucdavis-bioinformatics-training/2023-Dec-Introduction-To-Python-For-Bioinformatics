@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
-title: 'UC Davis Bioinformatics Workshop Base Template'
+title: 'Introduction to Python For Bioinformatics'
 show_downloads: True
 google_analytics: True
 navigation:
@@ -8,6 +8,31 @@ navigation:
 
   - heading: Introduction
   - title: Intro to the Workshop and Core
-    url: welcome
-  - title: Examples of Markdown Formatting
-    url: examples
+    url: base/welcome
+  - title: Installing python3 and VSCode
+    url: base/install
+  - title: Bioinformatics File Types
+    url: python/filetypes
+
+  - heading: Python
+  - title: Intro
+    url: python/python1
+  - title: Basic Data Types
+    url: python/python2
+  - title: Flow Control, Functions, Files, Errors
+    url: python/python3
+  - title: Writing Programs
+    url: python/python4
+  - title: Biopython and bamnostic/pysam
+    url: python/python5
+  - title: Next Steps
+    url: python/nextsteps
+  #- title: Exercise Solutions
+  #  url: python/solutions
+
+  - heading: ETC
+  - title: Github Page
+    url: https://github.com/ucdavis-bioinformatics-training/2023-Dec-Introduction-To-Python-For-Bioinformatics
+  - title: Biocore website
+    url: https://bioinformatics.ucdavis.edu/
+
