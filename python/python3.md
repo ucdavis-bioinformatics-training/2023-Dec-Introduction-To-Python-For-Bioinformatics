@@ -103,7 +103,7 @@ for i in range(5):
 ```
 gene_list = ["DDX11L1","WASH7P","MIR6859-1","MIR1302-2HG","MIR1302-2","FAM138A"]
 
-print(\nIterating through a list\n")
+print("\nIterating through a list\n")
 
 for id in gene_list:
     print(id + " is a gene of interest")
@@ -114,10 +114,10 @@ for id in gene_list:
 ```
 gene_exp_dict = {"DDX11L1":43.2,"WASH7P":45,"MIR6859-1":60.1,"MIR1302-2HG":12,"MIR1302-2":0.5,"FAM138A":23}
 
-print(\nIterating through a dictionary\n")
+print("\nIterating through a dictionary\n")
 
 for gene in gene_exp_dict.keys():
-    print("Gene " + gene + " has expression value: " + str(gene_exp_dict[gene]))
+    print("Gene " + gene + " has expression value:", gene_exp_dict[gene])
 ```
 
 
@@ -185,11 +185,12 @@ def logfc(exp1,exp2):
     retval = math.log(exp2/exp1)
     return(retval)
 
-print("\nFunction 3\n")
 gene_exp_dict = {"DDX11L1":43.2,"WASH7P":45,"MIR6859-1":60.1,"MIR1302-2HG":12,"MIR1302-2":0.5,"FAM138A":23}
 
 de = logfc(gene_exp_dict['WASH7P'], gene_exp_dict['FAM138A'])
-print("The DE value is " + str(de))
+print("The DE value is", de)
+
+print("\nFunction 3\n")
 
 # They can also have default values for any of the parameters
 def logfc(exp1,exp2,sigdig=3):

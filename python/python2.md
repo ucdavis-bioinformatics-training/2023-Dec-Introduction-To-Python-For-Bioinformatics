@@ -147,29 +147,6 @@ Boolean Type: bool<br>
 Binary Types: bytes, bytearray, memoryview<br>
 
 
-## Casting
-
-In python, you can convert certain values for certain datatypes to other datatypes. Three of the commonly used functions for this are 'bool', 'int', and 'str'.
-
-```
-# convert a string to a boolean
-tmpstr = "Hello"
-tmpbool = bool(tmpstr)
-print("tmpstr as a boolean: ")
-print(tmpbool)
-
-# convert a decimal to a string
-# the print function can only print strings
-# anything that isn't a string needs to be converted to a string using the "str" method, to be able to print it.
-x = 45.5
-print("The number is: " + str(x))
-
-# convert string to an integer
-mystr = "50"
-myint = int(mystr) + 1
-print("The value of myint is: " + str(myint))
-```
-
 # Arithmetic: Addition/subtraction, multiplication/division, assignment arithmetic (assignment operators).
 <img src="figures/ed9e3c89.png" alt="if flow" width="600px"/>
 
@@ -186,10 +163,10 @@ print(a + b)
 # "c += 5" is shorthand for "c = c + 5"
 c = 83
 c += 5
-print("The current value of c is: " + str(c))
+print("The current value of c is:", c)
 
 # Subtraction
-print("b - a is: " + str(b - a))
+print("b - a is:", b - a)
 
 # Division
 print("a / b is: ")
@@ -257,37 +234,37 @@ last_gene = gene_list[5]
 print("The element at index 5 of gene_list is: " + last_gene)
 
 # getting a range of the list
-print("Elements 1 to 3 (non-inclusive) of gene_list: " + str(gene_list[1:3]))
-print("Elements -3 to end of gene_list: " + str(gene_list[-3:]))
-print("Elements beginning to 3 of gene_list: " + str(gene_list[:3]))
+print("Elements 1 to 3 (non-inclusive) of gene_list:", gene_list[1:3])
+print("Elements -3 to end of gene_list:", gene_list[-3:])
+print("Elements beginning to 3 of gene_list:", gene_list[:3])
 
 # The same range concept works for strings
 mystring = "The Quick Brown Fox"
 print("Letters 4 to 9 (non-inclusive) of mystring: " + mystring[4:9])
 
 # get the length of a list
-print("The length of gene_list is " + str(len(gene_list)))
+print("The length of gene_list is", len(gene_list))
 
 # lists can have elements of any type
 gene_exp = [43.2, 45, 60.1, 12, 0.5, 23]
 expval = gene_exp[2]
-print("Element index 2 of gene_exp is: " + str(expval))
+print("Element index 2 of gene_exp is:", expval)
 
 # You can overwrite an element of the list
 gene_list[3] = "BRCA3"
-print("gene_list is now: " + str(gene_list))
+print("gene_list is now:", gene_list))
 
 # creating a new variable equal to a list does NOT create a copy
 # both variables point to the same list
 gene_list2 = gene_list
 gene_list2[2] = "DMR3"
-print("gene_list has changed: " + str(gene_list))
+print("gene_list has changed:", gene_list)
 
 # use the copy method to make a actual copy of a list
 gene_list2 = gene_list.copy()
 gene_list2[2] = "DMR5"
-print("gene_list: " + str(gene_list))
-print("gene_list2: " + str(gene_list2))
+print("gene_list:", gene_list)
+print("gene_list2:", gene_list2)
 
 # use the "in" keyword to check for membership in a list
 print("Is 'BRCA2' in gene_list?: ")
