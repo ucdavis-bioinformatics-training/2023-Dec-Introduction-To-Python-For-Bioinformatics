@@ -42,6 +42,7 @@ if (diffexp < 0):
 print("\nIF Statement 4\n")
 # If statements can have multiple elif (else if)
 # Try changing the value of diffexp to see how the output changes.
+# The if statement below has a logical error, see if you can find it.
 diffexp = 25
 if (diffexp > 50):
     print("Very Upregulated")
@@ -117,7 +118,7 @@ gene_exp_dict = {"DDX11L1":43.2,"WASH7P":45,"MIR6859-1":60.1,"MIR1302-2HG":12,"M
 print("\nIterating through a dictionary\n")
 
 for gene in gene_exp_dict.keys():
-    print("Gene " + gene + " has expression value:", gene_exp_dict[gene])
+    print("Gene", gene, "has expression value:", gene_exp_dict[gene])
 ```
 
 

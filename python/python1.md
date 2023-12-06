@@ -10,7 +10,7 @@ https://businessoverbroadway.com/2019/01/13/programming-languages-most-used-and-
 
 -  Python is extremely popular and widely used, especially for data science.
     +  Popular and getting more so in Bioinformatics, especially for building tools.
-    +  For analysis, R (which you will learn later in the week) is arguably more useful currently due to the huge number of packages available from [Bioconductor](http://bioconductor.org/) and [CRAN](https://cran.r-project.org/). 
+    +  For analysis, R is arguably more useful currently due to the huge number of packages available from [Bioconductor](http://bioconductor.org/) and [CRAN](https://cran.r-project.org/). 
     +  The best option is to learn [Python, R, and bash](http://omgenomics.com/programming-languages/). A little of each will go a long way.
 -  Freely available to [download](https://www.python.org/downloads/) for Windows, Linux, Mac OS X, etc.
 -  Python is extremely versatile
