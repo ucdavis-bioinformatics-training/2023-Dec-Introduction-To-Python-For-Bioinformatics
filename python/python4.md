@@ -22,7 +22,7 @@ Hints:
 2. Check if the line begins with a ">". You will probably need to look at a [list of python string methods](https://www.w3schools.com/python/python_ref_string.asp) to find some that you need.
 3. If the line does not begin with a ">", then you know it is a sequence line. Insert the count code from the previous example, but you'll have to tweak it to make it work here. You will also need to make sure to remove the newline character ("\n") at the end of each line using a string method, before counting.
 4. Output the count.
-5. As a bonus piece, keep count of the number of sequences and output the average bases per sequence, for each base.
+5. As a bonus challenge, keep count of the number of sequences and output the average bases per sequence, for each base.
 
 
 ## Exercise 3 - Find the reverse complement
