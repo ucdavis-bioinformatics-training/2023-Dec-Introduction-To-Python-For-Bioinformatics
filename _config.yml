@@ -27,8 +27,8 @@ navigation:
     url: python/python5
   - title: Next Steps
     url: python/nextsteps
-  #- title: Exercise Solutions
-  #  url: python/solutions
+  - title: Exercise Solutions
+    url: python/solutions
 
   - heading: ETC
   - title: Github Page
