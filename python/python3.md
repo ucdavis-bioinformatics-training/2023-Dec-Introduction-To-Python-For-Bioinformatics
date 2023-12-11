@@ -251,7 +251,7 @@ print(f4.read())
 f4.close()
 ```
 
-**PRACTICE**: Using your personnel dictionary, loop through the employees and create a TSV with one employee per line. Make sure to have a header line. Do the same for the gene expression dictionary.
+**PRACTICE**: Using your personnel dictionary, loop through the employees and create a TSV with one employee per line. You will need to use the tab character, which is "\t". Make sure to have a header line. Do the same for the gene expression dictionary.
 
 
 # Errors

@@ -21,8 +21,7 @@ whole numbers, negative or positive
 print("Basic Data Types\n")
 
 gene_count = 7
-print("Gene count is: ")
-print(gene_count)
+print("Gene count is: ", gene_count)
 ```
 
 ### Floats
@@ -30,8 +29,7 @@ basically Real numbers
 
 ```
 gene_exp = 3.89
-print("Gene expression is: ")
-print(gene_exp)
+print("Gene expression is: ", gene_exp)
 ```
 
 ### Strings
@@ -39,8 +37,7 @@ Any text (including all symbols and spaces) is called a "string". Strings are de
 
 ```
 gene_id = "BRCA2"
-print("Gene ID is: ")
-print(gene_id)
+print("Gene ID is: ", gene_id)
 hw = "HELLO!!! WORLD!!!"
 print(hw)
 ```
@@ -53,8 +50,7 @@ Strings have a long list of built-in methods to return modified versions of the 
 tmpstr = "hello my name is Nik."
 
 allcaps = tmpstr.upper()
-print("tmpstr in all caps: ")
-print(allcaps)
+print("tmpstr in all caps: ", allcaps)
 
 newstr = tmpstr.replace("Nik","Joe")
 print("After replacing Nik with Joe")
@@ -88,10 +84,8 @@ print("\nBooleans\n")
 
 control = False
 treatment = True
-print("Value of control: ")
-print(control)
-print("Value of treatment: ")
-print(treatment)
+print("Value of control: ", control)
+print("Value of treatment: ", treatment)
 ```
 
 Booleans come into play when making comparisons. The simplest comparisons are comparing integers:
@@ -128,12 +122,9 @@ print(hw == "hello")
 You can use the "type" function to query the type of a variable:
 
 ```
-print("The data type of the variable 'control' is:")
-print(type(control))
-print("The data type of the variable 'hw' is:")
-print(type(hw))
-print("The data type of the variable 'gene_count' is:")
-print(type(gene_count))
+print("The data type of the variable 'control' is:", type(control))
+print("The data type of the variable 'hw' is:", type(hw))
+print("The data type of the variable 'gene_count' is:", type(gene_count))
 ```
 
 Here is a list of the built-in datatypes and their corresponding category:
@@ -173,34 +164,26 @@ print("a / b is: ")
 print(a/b)
 
 # Exponents
-print("4 to the power of b is: ")
-print(4**b)
+print("4 to the power of b is: ", 4**b)
 #or
 expb = pow(4,b)
 print(expb)
 
 # Remainder 
-print("4 mod 3 is: ")
-print(4 % 3)
+print("4 mod 3 is: ", 4 % 3)
 
 # Absolute value
 av = abs(22-32)
-print("The absolute value of 22 - 32 is: ")
-print(av)
+print("The absolute value of 22 - 32 is: ", av)
 
 # Round, Floor, Ceiling
-print("3.2 rounded: ")
-print(round(3.2))
-print("3.2 truncated: ")
-print(int(3.2))
+print("3.2 rounded:", round(3.2))
+print("3.2 truncated:", int(3.2))
 
 import math
-print("Ceiling of 3.2 is: ")
-print(math.ceil(3.2))
-print("Floor of 3.2 is: ")
-print(math.floor(3.7))
-print("Truncating 3.7: ")
-print(int(3.7))
+print("Ceiling of 3.2 is:", math.ceil(3.2))
+print("Floor of 3.2 is:", math.floor(3.7))
+print("Truncating 3.7:", int(3.7))
 ```
 
 The [math package](https://docs.python.org/3/library/math.html) has many common math functions you can use.
